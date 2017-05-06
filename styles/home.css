@@ -1,0 +1,32 @@
+.home__banner__wrapper {
+  background: url('/img/algorithms-header.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.main-text {
+  font-size: 3rem;
+  color: #ffffff;
+  margin: auto;
+  text-align: center;
+  padding-top: 5.5rem;
+  padding-bottom: 5.5rem;
+  font-weight: 400;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+.main-text__container {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.35);;
+}
+.info-text__wrapper {
+  text-align: center;
+  width: 56.25rem;
+  margin: auto;
+}
+.info-text__wrapper h1 {
+  color: #75B1A9;
+}
+.info-text__wrapper p {
+  color: #4f6457;
+  font-size:1.2rem;
+  line-height:1.5rem;
+}

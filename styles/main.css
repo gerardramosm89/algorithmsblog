@@ -1,0 +1,36 @@
+/* Color Scheme */
+/*
+  sky-teal: #75B1A9
+  sunglow-yellow: #D9B44A
+  mountains-green: #4F6457
+  mist-green: #ACD0C0
+*/
+
+body {
+  font-family: 'Lato';
+  background-color: #fafafa;
+  margin: 0;
+}
+.row {
+  width: 100%;
+}
+
+/* Percent Bar */
+.barParent {
+  width: 50vw;
+  height:3vh;
+}
+.bar-fill {
+  height:3vh;
+  background-color: red;
+  transition: .3s ease all;
+}
+.editor-field {
+  background-color: white;
+}
+.editor {
+ border: 1px solid grey;
+ padding: 6px;
+}
+@import 'navbar.css';
+@import 'home.css';
